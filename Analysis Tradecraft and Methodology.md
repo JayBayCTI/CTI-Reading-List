@@ -1,1 +1,7 @@
-test
+* Applied Thinking for Intelligence Analysis: A guide for practitioners; Charles Vandepeer (https://airpower.airforce.gov.au/sites/default/files/2021-03/AF13-Applied-Thinking-for-Intelligence-Analysis.pdf)
+* Assessing the Tradecraft of Intelligence Analysis; Gregory F. Treverton, C. Bryan Gabbard (https://www.rand.org/content/dam/rand/pubs/technical_reports/2008/RAND_TR293.pdf)
+* Attributing Cyber Attacks; Thomas Rid and Ben Buchanan (https://ridt.co/d/rid-buchanan-attributing-cyber-attacks.pdf)
+* Conceptualizing a Continuum of Cyber Threat Attribution; Joe Slowik (https://www.domaintools.com/wp-content/uploads/conceptualizing-a-continuum-of-cyber-threat-attribution.pdf)
+* Developing an  Intelligence-Driven Threat  Hunting Methodology; Joe Slowik (https://www.gigamon.com/content/dam/resource-library/english/white-paper/wp-intelligence-driven-threat-hunting-methodology.pdf)
+* Formulating a Robust Pivoting Methodology; Joe Slowik (https://pylos.co/wp-content/uploads/2021/02/pivoting.pdf)
+* Threat Intelligence and the Limits of Malware Analysis; Joe Slowik (https://www.dragos.com/wp-content/uploads/Threat-Intelligence-and-the-Limits-of-Malware-Analysis.pdf)
